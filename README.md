@@ -1,11 +1,23 @@
-# 👋 Hi, I’m @green-glitch
-My name is Krzysztof Kalinowski and I love programming.
-## About me
-I'm a student of the MUP in Oświęcim. I'm studing Computer Sience Engineering.
-## Stuff I learn
-![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js)
-### freeCodeCamp
-- I’m currently learning HTML, CSS and JS in freeCodeCamp.org
-- There is my [profile](https://www.freecodecamp.org/green-glitch)
-## Portfolio Webpage
-There is my [Portfolio Webpage](https://green-glitch.github.io/)
+<h1 align="center">👋 Hi, I’m @green-glitch</h1>
+<p align="justify">My name is Krzysztof Kalinowski and I love programming.</p>
+
+<h2 align="center">About me</h2>
+<p align="justify">I'm a student of the MUP in Oświęcim. I'm studing Computer Sience Engineering.</p>
+
+<h2 align="center">Staff I learn</h2>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js" alt="Technologies Icons">
+</div>
+
+<h2 align="center">Staff I learn</h2>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=green-glitch&langs_count=10&bg_color=000&text_color=080&border_radius=30&title_color=080&border_color=080" alt="UltiPro Most Used Languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=green-glitch&hide=stars,commits,prs,issues,contribs&bg_color=000&title_color=080&card_width=350&border_color=080&border_radius=30&text_color=080"/>
+</div>
+
+<h2 align="center">Portfolio Webpage</h2>
+    <p align="justify">You can find my webpage <a href="https://green-glitch.github.io">here</a>
+</p>
