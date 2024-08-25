@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,html,css,js" alt="Technologies Icons">
 </div>
 
-<h2 align="center">Staff I learn</h2>
+<h2 align="center">Some stats</h2>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=green-glitch&langs_count=10&bg_color=000&text_color=080&border_radius=30&title_color=080&border_color=080" alt="UltiPro Most Used Languages"/>
