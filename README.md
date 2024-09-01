@@ -14,7 +14,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=green-glitch&langs_count=10&bg_color=000&text_color=080&border_radius=30&title_color=080&border_color=080" alt="GreenGlitch Most Used Languages"/>
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=green-glitch&hide=stars,commits,prs,issues,contribs&bg_color=000&title_color=080&card_width=350&border_color=080&border_radius=30&text_color=080"  alt="GreenGlitch Rank"/>
 </div>
 
