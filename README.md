@@ -14,7 +14,6 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=green-glitch&layout=donut&bg_color=000&hide_border=true&title_color=080&custom_title=My Top Languages&text_color=fff&disable_animations=true" alt="GreenGlitch Most Used Languages"/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=green-glitch&bg_color=000&hide_border=true&title_color=080&custom_title=My Github Rank&text_color=fff&disable_animations=true&hide=stars,commits,prs,issues,contribs"  alt="GreenGlitch Rank"/>
 </div>
 
