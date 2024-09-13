@@ -10,6 +10,10 @@
 <img src="https://skillicons.dev/icons?i=git,github,html,css,js" alt="Technologies Icons">
 </div>
 
+<h2 align="center">About my repos</h2>
+    <p align="justify">To see info about my repos, click <a href="https://github.com/green-glitch/green-glitch?tab=security-ov-file">here</a>.
+</p>
+
 <h2 align="center">Some stats</h2>
 
 <div align="center">
@@ -19,5 +23,5 @@
 </div>
 
 <h2 align="center">Portfolio Webpage</h2>
-    <p align="justify">You can find my webpage <a href="https://green-glitch.github.io">here</a>
+    <p align="justify">You can find my webpage <a href="https://green-glitch.github.io">here</a>.
 </p>
