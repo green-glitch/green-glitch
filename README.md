@@ -7,7 +7,7 @@
 <h2 align="center">Staff I learn</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,html,css,js" alt="Technologies Icons">
+<img src="https://skillicons.dev/icons?i=git,github,html,css,js,python" alt="Technologies Icons">
 </div>
 
 <h2 align="center">Some stats</h2>
