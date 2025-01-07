@@ -3,10 +3,14 @@
 ## 📖 About Me
 Hello! I'm an aspiring Web Developer currently diving into the world of front-end development. Although I'm just starting my journey and don't have professional experience yet, I'm fully committed to learning and growing in this field.
 
+## Stuff I’m Know
+
+![Technologies Icons](https://skillicons.dev/icons?i=git,html,css)
+
 ## 🚀 Stuff I’m Learning
 I’m actively expanding my knowledge in various web development technologies and tools, including:
 
-![Technologies Icons](https://skillicons.dev/icons?i=git,github,html,css,js,python)
+![Technologies Icons](https://skillicons.dev/icons?i=github,js,bootstrap,jquery,python)
 
 I'm excited to continue learning new technologies as I develop my skills!
 
