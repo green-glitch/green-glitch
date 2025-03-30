@@ -5,12 +5,12 @@ Hello! I'm an aspiring Web Developer currently diving into the world of front-en
 
 ## Stuff I’m Know
 
-![Technologies Icons](https://skillicons.dev/icons?i=git,html,css)
+![Technologies Icons](https://skillicons.dev/icons?i=git,html,css,bootstrap)
 
 ## 🚀 Stuff I’m Learning
 I’m actively expanding my knowledge in various web development technologies and tools, including:
 
-![Technologies Icons](https://skillicons.dev/icons?i=github,js,bootstrap,jquery,python)
+![Technologies Icons](https://skillicons.dev/icons?i=github,js,jquery,python)
 
 I'm excited to continue learning new technologies as I develop my skills!
 
