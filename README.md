@@ -10,7 +10,7 @@ Hello! I'm an aspiring Web Developer currently diving into the world of front-en
 ## 🚀 Stuff I’m Learning
 I’m actively expanding my knowledge in various web development technologies and tools, including:
 
-![Technologies Icons](https://skillicons.dev/icons?i=github,js,jquery,python)
+![Technologies Icons](https://skillicons.dev/icons?i=github,js,jquery,python,docker)
 
 I'm excited to continue learning new technologies as I develop my skills!
 
